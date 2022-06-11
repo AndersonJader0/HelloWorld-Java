@@ -1,4 +1,4 @@
-The beggining!
+The beggining in Java!
 
-`Hello, World! in Java`
+`Hello, World!`
 
